@@ -1,0 +1,4 @@
+HTDOCS
+    Document root where source code and projects files go 
+
+    requires a index.php to serve the page when trying to accessing it via the web client
